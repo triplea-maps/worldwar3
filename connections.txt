@@ -1,0 +1,1167 @@
+<!-- Territory Definitions -->
+<territory name="Adriatic Sea"/>
+<territory name="Afghanistan"/>
+<territory name="Alaska"/>
+<territory name="Alberta"/>
+<territory name="Algeria"/>
+<territory name="Amurskaya"/>
+<territory name="Angola"/>
+<territory name="Arabian Sea"/>
+<territory name="Argentina"/>
+<territory name="Arkhangelsk"/>
+<territory name="Austro-Slovenia"/>
+<territory name="Balkan"/>
+<territory name="Baltic Sea"/>
+<territory name="Baltic States"/>
+<territory name="Bangladesh"/>
+<territory name="Bay of Bengal"/>
+<territory name="Beijing"/>
+<territory name="Belarus"/>
+<territory name="Benelux"/>
+<territory name="Bhutan"/>
+<territory name="Bihar"/>
+<territory name="Black Sea"/>
+<territory name="Bolivia"/>
+<territory name="Botswana"/>
+<territory name="British Columbia"/>
+<territory name="Bulgaria"/>
+<territory name="Burkina Faso"/>
+<territory name="Buryatia"/>
+<territory name="CAR"/>
+<territory name="Cairo"/>
+<territory name="California"/>
+<territory name="Cambodia"/>
+<territory name="Cameroon"/>
+<territory name="Cape Town"/>
+<territory name="Carolina"/>
+<territory name="Caspian Sea"/>
+<territory name="Caucasus"/>
+<territory name="Chad"/>
+<territory name="Changde"/>
+<territory name="Chifeng"/>
+<territory name="Chile"/>
+<territory name="Chongqing"/>
+<territory name="Columbia"/>
+<territory name="Congo"/>
+<territory name="Cote dIvoire"/>
+<territory name="Crimea"/>
+<territory name="Cuba"/>
+<territory name="DRC"/>
+<territory name="Dakota"/>
+<territory name="Dominican Republic"/>
+<territory name="E. Mexico"/>
+<territory name="E. Siberia"/>
+<territory name="E. Turkey"/>
+<territory name="Ecuador"/>
+<territory name="Egypt"/>
+<territory name="Ethiopia"/>
+<territory name="Finland"/>
+<territory name="Florida"/>
+<territory name="France"/>
+<territory name="French Guiana"/>
+<territory name="Gabon"/>
+<territory name="Georgia"/>
+<territory name="Germany"/>
+<territory name="Ghana"/>
+<territory name="Greece"/>
+<territory name="Greenland"/>
+<territory name="Guangxi"/>
+<territory name="Guatemala"/>
+<territory name="Guinea"/>
+<territory name="Gujarat"/>
+<territory name="Gulf of Mexico"/>
+<territory name="Gulf of Oman"/>
+<territory name="Gulf of Aden"/>
+<territory name="Guyana"/>
+<territory name="Harbin"/>
+<territory name="Hong Kong"/>
+<territory name="Hulunbuir"/>
+<territory name="Hungary"/>
+<territory name="Iceland"/>
+<territory name="Indonesia"/>
+<territory name="Iran"/>
+<territory name="Iraq"/>
+<territory name="Ireland"/>
+<territory name="Irkutsk"/>
+<territory name="Israel"/>
+<territory name="Italy"/>
+<territory name="Jakarta"/>
+<territory name="Jammu & Kashmir"/>
+<territory name="Japan"/>
+<territory name="Jinan"/>
+<territory name="Jordan"/>
+<territory name="Kaliningrad"/>
+<territory name="Karnataka"/>
+<territory name="Kamchatka"/>
+<territory name="Kazakhstan"/>
+<territory name="Kenya"/>
+<territory name="Khabarovsk"/>
+<territory name="Kunming"/>
+<territory name="Kwangtung"/>
+<territory name="LA"/>
+<territory name="Laos"/>
+<territory name="Liberia"/>
+<territory name="Libya"/>
+<territory name="M. Australia"/>
+<territory name="Madagascar"/>
+<territory name="Madhya Pradesh"/>
+<territory name="Magadan"/>
+<territory name="Malaysia"/>
+<territory name="Mali"/>
+<territory name="Manitoba"/>
+<territory name="Mauritania"/>
+<territory name="Minnesota"/>
+<territory name="Moldova"/>
+<territory name="Mongolia"/>
+<territory name="Montana"/>
+<territory name="Morocco"/>
+<territory name="Moscow"/>
+<territory name="Mozambique"/>
+<territory name="Murmansk"/>
+<territory name="Myanmar"/>
+<territory name="N. Brazil"/>
+<territory name="NW. Siberia"/>
+<territory name="NY"/>
+<territory name="Namibia"/>
+<territory name="Nanjing"/>
+<territory name="Nebraska"/>
+<territory name="Nepal"/>
+<territory name="Nevada"/>
+<territory name="New Delhi"/>
+<territory name="New York"/>
+<territory name="New Zealand"/>
+<territory name="Niger"/>
+<territory name="Nigeria"/>
+<territory name="North Sea"/>
+<territory name="North Korea"/>
+<territory name="Northwest Canada"/>
+<territory name="Norway"/>
+<territory name="Novgorod"/>
+<territory name="Novo-Sibirsk"/>
+<territory name="Nunavut"/>
+<territory name="Okhotsk"/>
+<territory name="Oman"/>
+<territory name="Omsk"/>
+<territory name="Ontario"/>
+<territory name="Orissa"/>
+<territory name="Pakistan"/>
+<territory name="Panama"/>
+<territory name="Papua New Guinea"/>
+<territory name="Paraguay"/>
+<territory name="Peru"/>
+<territory name="Pevek"/>
+<territory name="Philippines"/>
+<territory name="Poland"/>
+<territory name="Portugal"/>
+<territory name="Qingdao"/>
+<territory name="Qinghai"/>
+<territory name="Quebec"/>
+<territory name="Queensland"/>
+<territory name="Red Sea"/>
+<territory name="Rio de Janeiro"/>
+<territory name="Romania"/>
+<territory name="S1"/>
+<territory name="S2"/>
+<territory name="S3"/>
+<territory name="S4"/>
+<territory name="S5"/>
+<territory name="S6"/>
+<territory name="S7"/>
+<territory name="S8"/>
+<territory name="S9"/>
+<territory name="S10"/>
+<territory name="S11"/>
+<territory name="S12"/>
+<territory name="S13"/>
+<territory name="S14"/>
+<territory name="S15"/>
+<territory name="S16"/>
+<territory name="S17"/>
+<territory name="S18"/>
+<territory name="S19"/>
+<territory name="S20"/>
+<territory name="S21"/>
+<territory name="S22"/>
+<territory name="S23"/>
+<territory name="S24"/>
+<territory name="S25"/>
+<territory name="S26"/>
+<territory name="S27"/>
+<territory name="S28"/>
+<territory name="S29"/>
+<territory name="S30"/>
+<territory name="S31"/>
+<territory name="S32"/>
+<territory name="S33"/>
+<territory name="S34"/>
+<territory name="S35"/>
+<territory name="S36"/>
+<territory name="S37"/>
+<territory name="S38"/>
+<territory name="S39"/>
+<territory name="S40"/>
+<territory name="S41"/>
+<territory name="S42"/>
+<territory name="S43"/>
+<territory name="S44"/>
+<territory name="S45"/>
+<territory name="S46"/>
+<territory name="S47"/>
+<territory name="S48"/>
+<territory name="S49"/>
+<territory name="S50"/>
+<territory name="S51"/>
+<territory name="S52"/>
+<territory name="S54"/>
+<territory name="S55"/>
+<territory name="S56"/>
+<territory name="S57"/>
+<territory name="S58"/>
+<territory name="S59"/>
+<territory name="S60"/>
+<territory name="S61"/>
+<territory name="S62"/>
+<territory name="S63"/>
+<territory name="S64"/>
+<territory name="S65"/>
+<territory name="S66"/>
+<territory name="S67"/>
+<territory name="S68"/>
+<territory name="S69"/>
+<territory name="S70"/>
+<territory name="S71"/>
+<territory name="S72"/>
+<territory name="S73"/>
+<territory name="S74"/>
+<territory name="S75"/>
+<territory name="S76"/>
+<territory name="S77"/>
+<territory name="S78"/>
+<territory name="S80"/>
+<territory name="S81"/>
+<territory name="S82"/>
+<territory name="S83"/>
+<territory name="S84"/>
+<territory name="S85"/>
+<territory name="S86"/>
+<territory name="S87"/>
+<territory name="S88"/>
+<territory name="S89"/>
+<territory name="S90"/>
+<territory name="S91"/>
+<territory name="S92"/>
+<territory name="S93"/>
+<territory name="S94"/>
+<territory name="S100"/>
+<territory name="S. Brazil"/>
+<territory name="S. Siberia"/>
+<territory name="Saudi Arabia"/>
+<territory name="Sea of Japan"/>
+<territory name="Senegal"/>
+<territory name="Shanghai"/>
+<territory name="Siberia"/>
+<territory name="Smolensk"/>
+<territory name="Somalia"/>
+<territory name="South Africa"/>
+<territory name="South China Sea"/>
+<territory name="South Korea"/>
+<territory name="South Sudan"/>
+<territory name="Spain"/>
+<territory name="Sri Lanka"/>
+<territory name="St Petersburg"/>
+<territory name="Suda"/>
+<territory name="Sverdlovsk"/>
+<territory name="Sweden"/>
+<territory name="Switzerland"/>
+<territory name="Syria"/>
+<territory name="Taiwan"/>
+<territory name="Tajikistan"/>
+<territory name="Tamil Nadu"/>
+<territory name="Tanzania"/>
+<territory name="Tennesse"/>
+<territory name="Texas"/>
+<territory name="Thailand"/>
+<territory name="Tibet"/>
+<territory name="Tokio"/>
+<territory name="Tunisia"/>
+<territory name="Turkmenistan"/>
+<territory name="UK"/>
+<territory name="Uganda"/>
+<territory name="Ukraine"/>
+<territory name="Ulyanovsk"/>
+<territory name="United Arab Emirates"/>
+<territory name="Uruguay"/>
+<territory name="Uttar Pradesh"/>
+<territory name="Uzbekistan"/>
+<territory name="Venezuela"/>
+<territory name="Victoria"/>
+<territory name="Vietnam"/>
+<territory name="Vladivostok"/>
+<territory name="Volgograd"/>
+<territory name="Vologda"/>
+<territory name="W. Australia"/>
+<territory name="W. Mexico"/>
+<territory name="W. North Sea"/>
+<territory name="W. Siberia"/>
+<territory name="W. Turkey"/>
+<territory name="Washington"/>
+<territory name="Wuhan"/>
+<territory name="Xi'An"/>
+<territory name="Xinjiang"/>
+<territory name="Yakutsk"/>
+<territory name="Yellow Sea"/>
+<territory name="Yemen"/>
+<territory name="Yinchuan"/>
+<territory name="Yukon"/>
+<territory name="Zambia"/>
+<territory name="Zimbabwe"/>
+
+<!-- Territory Connections -->
+<connection t1="Adriatic Sea" t2="Balkan"/>
+<connection t1="Adriatic Sea" t2="Italy"/>
+<connection t1="Adriatic Sea" t2="S27"/>
+<connection t1="Afghanistan" t2="Iran"/>
+<connection t1="Afghanistan" t2="Pakistan"/>
+<connection t1="Afghanistan" t2="Tajikistan"/>
+<connection t1="Afghanistan" t2="Tibet"/>
+<connection t1="Afghanistan" t2="Turkmenistan"/>
+<connection t1="Afghanistan" t2="Uzbekistan"/>
+<connection t1="Alaska" t2="British Columbia"/>
+<connection t1="Alaska" t2="S6"/>
+<connection t1="Alaska" t2="Yukon"/>
+<connection t1="Alberta" t2="British Columbia"/>
+<connection t1="Alberta" t2="Dakota"/>
+<connection t1="Alberta" t2="Manitoba"/>
+<connection t1="Alberta" t2="Montana"/>
+<connection t1="Alberta" t2="Northwest Canada"/>
+<connection t1="Algeria" t2="Libya"/>
+<connection t1="Algeria" t2="Mali"/>
+<connection t1="Algeria" t2="Mauritania"/>
+<connection t1="Algeria" t2="Morocco"/>
+<connection t1="Algeria" t2="Niger"/>
+<connection t1="Algeria" t2="S25"/>
+<connection t1="Algeria" t2="Tunisia"/>
+<connection t1="Amurskaya" t2="Buryatia"/>
+<connection t1="Amurskaya" t2="Harbin"/>
+<connection t1="Amurskaya" t2="Hulunbuir"/>
+<connection t1="Amurskaya" t2="Khabarovsk"/>
+<connection t1="Amurskaya" t2="Okhotsk"/>
+<connection t1="Amurskaya" t2="S13"/>
+<connection t1="Angola" t2="DRC"/>
+<connection t1="Angola" t2="Namibia"/>
+<connection t1="Angola" t2="S64"/>
+<connection t1="Angola" t2="Zambia"/>
+<connection t1="Arabian Sea" t2="Bay of Bengal"/>
+<connection t1="Arabian Sea" t2="Gujarat"/>
+<connection t1="Arabian Sea" t2="Gulf of Aden"/>
+<connection t1="Arabian Sea" t2="Gulf of Oman"/>
+<connection t1="Arabian Sea" t2="Karnataka"/>
+<connection t1="Arabian Sea" t2="S52"/>
+<connection t1="Arabian Sea" t2="S68"/>
+<connection t1="Arabian Sea" t2="S69"/>
+<connection t1="Arabian Sea" t2="S70"/>
+<connection t1="Arabian Sea" t2="Sri Lanka"/>
+<connection t1="Arabian Sea" t2="Tamil Nadu"/>
+<connection t1="Argentina" t2="Bolivia"/>
+<connection t1="Argentina" t2="Chile"/>
+<connection t1="Argentina" t2="Paraguay"/>
+<connection t1="Argentina" t2="S. Brazil"/>
+<connection t1="Argentina" t2="S85"/>
+<connection t1="Argentina" t2="Uruguay"/>
+<connection t1="Arkhangelsk" t2="Murmansk"/>
+<connection t1="Arkhangelsk" t2="Sverdlovsk"/>
+<connection t1="Arkhangelsk" t2="Ulyanovsk"/>
+<connection t1="Arkhangelsk" t2="Vologda"/>
+<connection t1="Arkhangelsk" t2="W. Siberia"/>
+<connection t1="Austro-Slovenia" t2="Balkan"/>
+<connection t1="Austro-Slovenia" t2="Germany"/>
+<connection t1="Austro-Slovenia" t2="Hungary"/>
+<connection t1="Austro-Slovenia" t2="Italy"/>
+<connection t1="Austro-Slovenia" t2="Poland"/>
+<connection t1="Austro-Slovenia" t2="Switzerland"/>
+<connection t1="Balkan" t2="Bulgaria"/>
+<connection t1="Balkan" t2="Greece"/>
+<connection t1="Balkan" t2="Hungary"/>
+<connection t1="Balkan" t2="Italy"/>
+<connection t1="Balkan" t2="Romania"/>
+<connection t1="Baltic Sea" t2="Baltic States"/>
+<connection t1="Baltic Sea" t2="Finland"/>
+<connection t1="Baltic Sea" t2="Kaliningrad"/>
+<connection t1="Baltic Sea" t2="North Sea"/>
+<connection t1="Baltic Sea" t2="St Petersburg"/>
+<connection t1="Baltic Sea" t2="Sweden"/>
+<connection t1="Baltic States" t2="Belarus"/>
+<connection t1="Baltic States" t2="Kaliningrad"/>
+<connection t1="Baltic States" t2="Novgorod"/>
+<connection t1="Baltic States" t2="Poland"/>
+<connection t1="Baltic States" t2="St Petersburg"/>
+<connection t1="Bangladesh" t2="Bay of Bengal"/>
+<connection t1="Bangladesh" t2="Bihar"/>
+<connection t1="Bangladesh" t2="Myanmar"/>
+<connection t1="Bay of Bengal" t2="Bihar"/>
+<connection t1="Bay of Bengal" t2="Myanmar"/>
+<connection t1="Bay of Bengal" t2="Orissa"/>
+<connection t1="Bay of Bengal" t2="S52"/>
+<connection t1="Bay of Bengal" t2="S54"/>
+<connection t1="Bay of Bengal" t2="Sri Lanka"/>
+<connection t1="Bay of Bengal" t2="Tamil Nadu"/>
+<connection t1="Beijing" t2="Chifeng"/>
+<connection t1="Beijing" t2="Hulunbuir"/>
+<connection t1="Beijing" t2="Jinan"/>
+<connection t1="Beijing" t2="Qingdao"/>
+<connection t1="Beijing" t2="Yinchuan"/>
+<connection t1="Belarus" t2="Novgorod"/>
+<connection t1="Belarus" t2="Poland"/>
+<connection t1="Belarus" t2="Smolensk"/>
+<connection t1="Belarus" t2="Ukraine"/>
+<connection t1="Benelux" t2="France"/>
+<connection t1="Benelux" t2="Germany"/>
+<connection t1="Benelux" t2="W. North Sea"/>
+<connection t1="Bhutan" t2="Bihar"/>
+<connection t1="Bhutan" t2="Tibet"/>
+<connection t1="Bihar" t2="Chongqing"/>
+<connection t1="Bihar" t2="Myanmar"/>
+<connection t1="Bihar" t2="Nepal"/>
+<connection t1="Bihar" t2="Orissa"/>
+<connection t1="Bihar" t2="Tibet"/>
+<connection t1="Bihar" t2="Uttar Pradesh"/>
+<connection t1="Black Sea" t2="Bulgaria"/>
+<connection t1="Black Sea" t2="Caucasus"/>
+<connection t1="Black Sea" t2="Crimea"/>
+<connection t1="Black Sea" t2="E. Turkey"/>
+<connection t1="Black Sea" t2="Georgia"/>
+<connection t1="Black Sea" t2="Romania"/>
+<connection t1="Black Sea" t2="Ukraine"/>
+<connection t1="Black Sea" t2="W. Turkey"/>
+<connection t1="Bolivia" t2="Chile"/>
+<connection t1="Bolivia" t2="N. Brazil"/>
+<connection t1="Bolivia" t2="Paraguay"/>
+<connection t1="Bolivia" t2="Peru"/>
+<connection t1="Bolivia" t2="S. Brazil"/>
+<connection t1="Botswana" t2="Namibia"/>
+<connection t1="Botswana" t2="South Africa"/>
+<connection t1="Botswana" t2="Zimbabwe"/>
+<connection t1="British Columbia" t2="Montana"/>
+<connection t1="British Columbia" t2="Northwest Canada"/>
+<connection t1="British Columbia" t2="S16"/>
+<connection t1="British Columbia" t2="S6"/>
+<connection t1="British Columbia" t2="Washington"/>
+<connection t1="British Columbia" t2="Yukon"/>
+<connection t1="Bulgaria" t2="Greece"/>
+<connection t1="Bulgaria" t2="Romania"/>
+<connection t1="Bulgaria" t2="W. Turkey"/>
+<connection t1="Burkina Faso" t2="Cote dIvoire"/>
+<connection t1="Burkina Faso" t2="Ghana"/>
+<connection t1="Burkina Faso" t2="Mali"/>
+<connection t1="Burkina Faso" t2="Niger"/>
+<connection t1="Buryatia" t2="Irkutsk"/>
+<connection t1="Buryatia" t2="Mongolia"/>
+<connection t1="Buryatia" t2="Okhotsk"/>
+<connection t1="Buryatia" t2="Yakutsk"/>
+<connection t1="CAR" t2="Cameroon"/>
+<connection t1="CAR" t2="Chad"/>
+<connection t1="CAR" t2="Congo"/>
+<connection t1="CAR" t2="DRC"/>
+<connection t1="CAR" t2="South Sudan"/>
+<connection t1="CAR" t2="Suda"/>
+<connection t1="Cairo" t2="Egypt"/>
+<connection t1="Cairo" t2="S29"/>
+<connection t1="California" t2="LA"/>
+<connection t1="California" t2="Nevada"/>
+<connection t1="California" t2="S16"/>
+<connection t1="California" t2="W. Mexico"/>
+<connection t1="California" t2="Washington"/>
+<connection t1="Cambodia" t2="Laos"/>
+<connection t1="Cambodia" t2="S54"/>
+<connection t1="Cambodia" t2="Thailand"/>
+<connection t1="Cambodia" t2="Vietnam"/>
+<connection t1="Cameroon" t2="Chad"/>
+<connection t1="Cameroon" t2="Congo"/>
+<connection t1="Cameroon" t2="Gabon"/>
+<connection t1="Cameroon" t2="Niger"/>
+<connection t1="Cameroon" t2="Nigeria"/>
+<connection t1="Cameroon" t2="S64"/>
+<connection t1="Cape Town" t2="S67"/>
+<connection t1="Cape Town" t2="South Africa"/>
+<connection t1="Carolina" t2="Florida"/>
+<connection t1="Carolina" t2="New York"/>
+<connection t1="Carolina" t2="S17"/>
+<connection t1="Carolina" t2="Tennesse"/>
+<connection t1="Caspian Sea" t2="Caucasus"/>
+<connection t1="Caspian Sea" t2="Georgia"/>
+<connection t1="Caspian Sea" t2="Iran"/>
+<connection t1="Caspian Sea" t2="Kazakhstan"/>
+<connection t1="Caspian Sea" t2="Turkmenistan"/>
+<connection t1="Caucasus" t2="Georgia"/>
+<connection t1="Caucasus" t2="Kazakhstan"/>
+<connection t1="Caucasus" t2="Ukraine"/>
+<connection t1="Caucasus" t2="Ulyanovsk"/>
+<connection t1="Caucasus" t2="Volgograd"/>
+<connection t1="Chad" t2="Libya"/>
+<connection t1="Chad" t2="Niger"/>
+<connection t1="Chad" t2="Suda"/>
+<connection t1="Changde" t2="Chongqing"/>
+<connection t1="Changde" t2="Guangxi"/>
+<connection t1="Changde" t2="Kwangtung"/>
+<connection t1="Changde" t2="Nanjing"/>
+<connection t1="Changde" t2="Wuhan"/>
+<connection t1="Changde" t2="Xi'An"/>
+<connection t1="Chifeng" t2="Harbin"/>
+<connection t1="Chifeng" t2="Hulunbuir"/>
+<connection t1="Chifeng" t2="Qingdao"/>
+<connection t1="Chifeng" t2="S30"/>
+<connection t1="Chile" t2="Peru"/>
+<connection t1="Chile" t2="S61"/>
+<connection t1="Chile" t2="S84"/>
+<connection t1="Chile" t2="S85"/>
+<connection t1="Chongqing" t2="Guangxi"/>
+<connection t1="Chongqing" t2="Kunming"/>
+<connection t1="Chongqing" t2="Myanmar"/>
+<connection t1="Chongqing" t2="Qinghai"/>
+<connection t1="Chongqing" t2="Tibet"/>
+<connection t1="Chongqing" t2="Xi'An"/>
+<connection t1="Columbia" t2="Ecuador"/>
+<connection t1="Columbia" t2="N. Brazil"/>
+<connection t1="Columbia" t2="Panama"/>
+<connection t1="Columbia" t2="Peru"/>
+<connection t1="Columbia" t2="S38"/>
+<connection t1="Columbia" t2="S48"/>
+<connection t1="Columbia" t2="Venezuela"/>
+<connection t1="Congo" t2="DRC"/>
+<connection t1="Congo" t2="Gabon"/>
+<connection t1="Congo" t2="S64"/>
+<connection t1="Cote dIvoire" t2="Ghana"/>
+<connection t1="Cote dIvoire" t2="Guinea"/>
+<connection t1="Cote dIvoire" t2="Liberia"/>
+<connection t1="Cote dIvoire" t2="Mali"/>
+<connection t1="Cote dIvoire" t2="S51"/>
+<connection t1="Crimea" t2="Caucasus"/>
+<connection t1="Crimea" t2="Ukraine"/>
+<connection t1="Cuba" t2="Dominican Republic"/>
+<connection t1="Cuba" t2="Gulf of Mexico"/>
+<connection t1="Cuba" t2="S36"/>
+<connection t1="Cuba" t2="S38"/>
+<connection t1="DRC" t2="S64"/>
+<connection t1="DRC" t2="South Sudan"/>
+<connection t1="DRC" t2="Tanzania"/>
+<connection t1="DRC" t2="Uganda"/>
+<connection t1="DRC" t2="Zambia"/>
+<connection t1="Dakota" t2="Manitoba"/>
+<connection t1="Dakota" t2="Minnesota"/>
+<connection t1="Dakota" t2="Montana"/>
+<connection t1="Dakota" t2="Nebraska"/>
+<connection t1="Dakota" t2="Tennesse"/>
+<connection t1="Dominican Republic" t2="S37"/>
+<connection t1="Dominican Republic" t2="S38"/>
+<connection t1="E. Mexico" t2="Guatemala"/>
+<connection t1="E. Mexico" t2="Gulf of Mexico"/>
+<connection t1="E. Mexico" t2="S35"/>
+<connection t1="E. Mexico" t2="S38"/>
+<connection t1="E. Mexico" t2="Texas"/>
+<connection t1="E. Mexico" t2="W. Mexico"/>
+<connection t1="E. Siberia" t2="Magadan"/>
+<connection t1="E. Siberia" t2="Okhotsk"/>
+<connection t1="E. Siberia" t2="Pevek"/>
+<connection t1="E. Siberia" t2="Siberia"/>
+<connection t1="E. Siberia" t2="Yakutsk"/>
+<connection t1="E. Turkey" t2="Georgia"/>
+<connection t1="E. Turkey" t2="Iran"/>
+<connection t1="E. Turkey" t2="Iraq"/>
+<connection t1="E. Turkey" t2="Syria"/>
+<connection t1="E. Turkey" t2="W. Turkey"/>
+<connection t1="Ecuador" t2="Peru"/>
+<connection t1="Ecuador" t2="S48"/>
+<connection t1="Egypt" t2="Israel"/>
+<connection t1="Egypt" t2="Libya"/>
+<connection t1="Egypt" t2="Red Sea"/>
+<connection t1="Egypt" t2="S29"/>
+<connection t1="Egypt" t2="Suda"/>
+<connection t1="Ethiopia" t2="Gulf of Aden"/>
+<connection t1="Ethiopia" t2="Kenya"/>
+<connection t1="Ethiopia" t2="Red Sea"/>
+<connection t1="Ethiopia" t2="Somalia"/>
+<connection t1="Ethiopia" t2="South Sudan"/>
+<connection t1="Ethiopia" t2="Suda"/>
+<connection t1="Finland" t2="Murmansk"/>
+<connection t1="Finland" t2="Norway"/>
+<connection t1="Finland" t2="St Petersburg"/>
+<connection t1="Finland" t2="Sweden"/>
+<connection t1="Finland" t2="Vologda"/>
+<connection t1="Florida" t2="Gulf of Mexico"/>
+<connection t1="Florida" t2="Nebraska"/>
+<connection t1="Florida" t2="S36"/>
+<connection t1="Florida" t2="Tennesse"/>
+<connection t1="Florida" t2="Texas"/>
+<connection t1="France" t2="Germany"/>
+<connection t1="France" t2="Italy"/>
+<connection t1="France" t2="S26"/>
+<connection t1="France" t2="Spain"/>
+<connection t1="France" t2="Switzerland"/>
+<connection t1="France" t2="W. North Sea"/>
+<connection t1="French Guiana" t2="Guyana"/>
+<connection t1="French Guiana" t2="N. Brazil"/>
+<connection t1="French Guiana" t2="S62"/>
+<connection t1="Gabon" t2="S64"/>
+<connection t1="Georgia" t2="Iran"/>
+<connection t1="Germany" t2="North Sea"/>
+<connection t1="Germany" t2="Poland"/>
+<connection t1="Germany" t2="Switzerland"/>
+<connection t1="Ghana" t2="Niger"/>
+<connection t1="Ghana" t2="Nigeria"/>
+<connection t1="Ghana" t2="S51"/>
+<connection t1="Greece" t2="S27"/>
+<connection t1="Greece" t2="S28"/>
+<connection t1="Greece" t2="W. Turkey"/>
+<connection t1="Greenland" t2="S1"/>
+<connection t1="Greenland" t2="S10"/>
+<connection t1="Greenland" t2="S9"/>
+<connection t1="Guangxi" t2="Kunming"/>
+<connection t1="Guangxi" t2="Kwangtung"/>
+<connection t1="Guangxi" t2="South China Sea"/>
+<connection t1="Guangxi" t2="Vietnam"/>
+<connection t1="Guatemala" t2="Panama"/>
+<connection t1="Guatemala" t2="S35"/>
+<connection t1="Guatemala" t2="S38"/>
+<connection t1="Guinea" t2="Liberia"/>
+<connection t1="Guinea" t2="Mali"/>
+<connection t1="Guinea" t2="S51"/>
+<connection t1="Guinea" t2="Senegal"/>
+<connection t1="Gujarat" t2="Jammu Kashmir"/>
+<connection t1="Gujarat" t2="Karnataka"/>
+<connection t1="Gujarat" t2="Madhya Pradesh"/>
+<connection t1="Gujarat" t2="New Delhi"/>
+<connection t1="Gujarat" t2="Pakistan"/>
+<connection t1="Gujarat" t2="Uttar Pradesh"/>
+<connection t1="Gulf of Aden" t2="Red Sea"/>
+<connection t1="Gulf of Aden" t2="S68"/>
+<connection t1="Gulf of Aden" t2="Somalia"/>
+<connection t1="Gulf of Aden" t2="Yemen"/>
+<connection t1="Gulf of Mexico" t2="S36"/>
+<connection t1="Gulf of Mexico" t2="S38"/>
+<connection t1="Gulf of Mexico" t2="Texas"/>
+<connection t1="Gulf of Oman" t2="Gulf of Aden"/>
+<connection t1="Gulf of Oman" t2="Iran"/>
+<connection t1="Gulf of Oman" t2="Iraq"/>
+<connection t1="Gulf of Oman" t2="Oman"/>
+<connection t1="Gulf of Oman" t2="Pakistan"/>
+<connection t1="Gulf of Oman" t2="Saudi Arabia"/>
+<connection t1="Gulf of Oman" t2="United Arab Emirates"/>
+<connection t1="Guyana" t2="N. Brazil"/>
+<connection t1="Guyana" t2="S49"/>
+<connection t1="Guyana" t2="Venezuela"/>
+<connection t1="Harbin" t2="Hulunbuir"/>
+<connection t1="Harbin" t2="Khabarovsk"/>
+<connection t1="Harbin" t2="North Korea"/>
+<connection t1="Harbin" t2="S30"/>
+<connection t1="Hawaii" t2="S33"/>
+<connection t1="Hawaii" t2="S34"/>
+<connection t1="Hong Kong" t2="Kwangtung"/>
+<connection t1="Hong Kong" t2="South China Sea"/>
+<connection t1="Hulunbuir" t2="Mongolia"/>
+<connection t1="Hulunbuir" t2="Yinchuan"/>
+<connection t1="Hungary" t2="Poland"/>
+<connection t1="Hungary" t2="Romania"/>
+<connection t1="Hungary" t2="Ukraine"/>
+<connection t1="Iceland" t2="S10"/>
+<connection t1="Iceland" t2="S11"/>
+<connection t1="Indonesia" t2="Jakarta"/>
+<connection t1="Indonesia" t2="Papua New Guinea"/>
+<connection t1="Indonesia" t2="S52"/>
+<connection t1="Indonesia" t2="S54"/>
+<connection t1="Indonesia" t2="S55"/>
+<connection t1="Indonesia" t2="S70"/>
+<connection t1="Indonesia" t2="S71"/>
+<connection t1="Indonesia" t2="S72"/>
+<connection t1="Iran" t2="Iraq"/>
+<connection t1="Iran" t2="Pakistan"/>
+<connection t1="Iran" t2="Turkmenistan"/>
+<connection t1="Iraq" t2="Jordan"/>
+<connection t1="Iraq" t2="Saudi Arabia"/>
+<connection t1="Iraq" t2="Syria"/>
+<connection t1="Ireland" t2="S11"/>
+<connection t1="Ireland" t2="S20"/>
+<connection t1="Irkutsk" t2="Kazakhstan"/>
+<connection t1="Irkutsk" t2="Mongolia"/>
+<connection t1="Irkutsk" t2="NW. Siberia"/>
+<connection t1="Irkutsk" t2="Novo-Sibirsk"/>
+<connection t1="Irkutsk" t2="S. Siberia"/>
+<connection t1="Irkutsk" t2="Xinjiang"/>
+<connection t1="Israel" t2="Jordan"/>
+<connection t1="Israel" t2="S29"/>
+<connection t1="Israel" t2="Syria"/>
+<connection t1="Italy" t2="S25"/>
+<connection t1="Italy" t2="S26"/>
+<connection t1="Italy" t2="S27"/>
+<connection t1="Italy" t2="Switzerland"/>
+<connection t1="Jakarta" t2="S54"/>
+<connection t1="Jammu Kashmir" t2="Nepal"/>
+<connection t1="Jammu Kashmir" t2="New Delhi"/>
+<connection t1="Jammu Kashmir" t2="Pakistan"/>
+<connection t1="Jammu Kashmir" t2="Tibet"/>
+<connection t1="Jammu Kashmir" t2="Uttar Pradesh"/>
+<connection t1="Japan" t2="S13"/>
+<connection t1="Japan" t2="S31"/>
+<connection t1="Japan" t2="Sea of Japan"/>
+<connection t1="Japan" t2="Tokio"/>
+<connection t1="Japan" t2="Yellow Sea"/>
+<connection t1="Jinan" t2="Qingdao"/>
+<connection t1="Jinan" t2="Wuhan"/>
+<connection t1="Jinan" t2="Xi'An"/>
+<connection t1="Jinan" t2="Yinchuan"/>
+<connection t1="Jordan" t2="Saudi Arabia"/>
+<connection t1="Jordan" t2="Syria"/>
+<connection t1="Kaliningrad" t2="North Sea"/>
+<connection t1="Kaliningrad" t2="Poland"/>
+<connection t1="Kamchatka" t2="Pevek"/>
+<connection t1="Kamchatka" t2="S13"/>
+<connection t1="Kamchatka" t2="S3"/>
+<connection t1="Karnataka" t2="Madhya Pradesh"/>
+<connection t1="Karnataka" t2="Orissa"/>
+<connection t1="Karnataka" t2="Tamil Nadu"/>
+<connection t1="Kazakhstan" t2="Novo-Sibirsk"/>
+<connection t1="Kazakhstan" t2="Omsk"/>
+<connection t1="Kazakhstan" t2="Sverdlovsk"/>
+<connection t1="Kazakhstan" t2="Tajikistan"/>
+<connection t1="Kazakhstan" t2="Turkmenistan"/>
+<connection t1="Kazakhstan" t2="Ulyanovsk"/>
+<connection t1="Kazakhstan" t2="Uzbekistan"/>
+<connection t1="Kazakhstan" t2="Xinjiang"/>
+<connection t1="Kenya" t2="S68"/>
+<connection t1="Kenya" t2="Somalia"/>
+<connection t1="Kenya" t2="South Sudan"/>
+<connection t1="Kenya" t2="Tanzania"/>
+<connection t1="Kenya" t2="Uganda"/>
+<connection t1="Khabarovsk" t2="North Korea"/>
+<connection t1="Khabarovsk" t2="S13"/>
+<connection t1="Khabarovsk" t2="Sea of Japan"/>
+<connection t1="Khabarovsk" t2="Vladivostok"/>
+<connection t1="Kunming" t2="Laos"/>
+<connection t1="Kunming" t2="Myanmar"/>
+<connection t1="Kunming" t2="Vietnam"/>
+<connection t1="Kwangtung" t2="Nanjing"/>
+<connection t1="Kwangtung" t2="Shanghai"/>
+<connection t1="Kwangtung" t2="South China Sea"/>
+<connection t1="LA" t2="S16"/>
+<connection t1="Laos" t2="Myanmar"/>
+<connection t1="Laos" t2="Thailand"/>
+<connection t1="Laos" t2="Vietnam"/>
+<connection t1="Liberia" t2="S51"/>
+<connection t1="Libya" t2="Niger"/>
+<connection t1="Libya" t2="S27"/>
+<connection t1="Libya" t2="Suda"/>
+<connection t1="Libya" t2="Tunisia"/>
+<connection t1="M. Australia" t2="Queensland"/>
+<connection t1="M. Australia" t2="S71"/>
+<connection t1="M. Australia" t2="S72"/>
+<connection t1="M. Australia" t2="S78"/>
+<connection t1="M. Australia" t2="Victoria"/>
+<connection t1="M. Australia" t2="W. Australia"/>
+<connection t1="Madagascar" t2="S68"/>
+<connection t1="Madagascar" t2="S74"/>
+<connection t1="Madagascar" t2="S75"/>
+<connection t1="Madhya Pradesh" t2="Orissa"/>
+<connection t1="Madhya Pradesh" t2="Uttar Pradesh"/>
+<connection t1="Magadan" t2="Okhotsk"/>
+<connection t1="Magadan" t2="Pevek"/>
+<connection t1="Magadan" t2="S13"/>
+<connection t1="Mali" t2="Mauritania"/>
+<connection t1="Mali" t2="Niger"/>
+<connection t1="Mali" t2="Senegal"/>
+<connection t1="Manitoba" t2="Minnesota"/>
+<connection t1="Manitoba" t2="Northwest Canada"/>
+<connection t1="Manitoba" t2="Nunavut"/>
+<connection t1="Manitoba" t2="Ontario"/>
+<connection t1="Manitoba" t2="S7"/>
+<connection t1="Mauritania" t2="Morocco"/>
+<connection t1="Mauritania" t2="S41"/>
+<connection t1="Mauritania" t2="Senegal"/>
+<connection t1="Minnesota" t2="Ontario"/>
+<connection t1="Minnesota" t2="Tennesse"/>
+<connection t1="Moldova" t2="Romania"/>
+<connection t1="Moldova" t2="Ukraine"/>
+<connection t1="Mongolia" t2="Xinjiang"/>
+<connection t1="Mongolia" t2="Yinchuan"/>
+<connection t1="Montana" t2="Nebraska"/>
+<connection t1="Montana" t2="Nevada"/>
+<connection t1="Montana" t2="Washington"/>
+<connection t1="Morocco" t2="S24"/>
+<connection t1="Morocco" t2="S25"/>
+<connection t1="Morocco" t2="S41"/>
+<connection t1="Moscow" t2="Novgorod"/>
+<connection t1="Moscow" t2="Smolensk"/>
+<connection t1="Moscow" t2="Ulyanovsk"/>
+<connection t1="Moscow" t2="Vologda"/>
+<connection t1="Mozambique" t2="S68"/>
+<connection t1="Mozambique" t2="S74"/>
+<connection t1="Mozambique" t2="South Africa"/>
+<connection t1="Mozambique" t2="Tanzania"/>
+<connection t1="Mozambique" t2="Zambia"/>
+<connection t1="Mozambique" t2="Zimbabwe"/>
+<connection t1="Murmansk" t2="Norway"/>
+<connection t1="Murmansk" t2="Vologda"/>
+<connection t1="Myanmar" t2="Thailand"/>
+<connection t1="N. Brazil" t2="Peru"/>
+<connection t1="N. Brazil" t2="S. Brazil"/>
+<connection t1="N. Brazil" t2="S62"/>
+<connection t1="N. Brazil" t2="Venezuela"/>
+<connection t1="NW. Siberia" t2="Novo-Sibirsk"/>
+<connection t1="NW. Siberia" t2="Omsk"/>
+<connection t1="NW. Siberia" t2="S. Siberia"/>
+<connection t1="NW. Siberia" t2="Siberia"/>
+<connection t1="NW. Siberia" t2="W. Siberia"/>
+<connection t1="NY" t2="New York"/>
+<connection t1="NY" t2="S17"/>
+<connection t1="Namibia" t2="S67"/>
+<connection t1="Namibia" t2="South Africa"/>
+<connection t1="Namibia" t2="Zambia"/>
+<connection t1="Nanjing" t2="Shanghai"/>
+<connection t1="Nanjing" t2="Wuhan"/>
+<connection t1="Nebraska" t2="Nevada"/>
+<connection t1="Nebraska" t2="Tennesse"/>
+<connection t1="Nebraska" t2="Texas"/>
+<connection t1="Nepal" t2="Tibet"/>
+<connection t1="Nepal" t2="Uttar Pradesh"/>
+<connection t1="Nevada" t2="Texas"/>
+<connection t1="Nevada" t2="W. Mexico"/>
+<connection t1="Nevada" t2="Washington"/>
+<connection t1="New Delhi" t2="Uttar Pradesh"/>
+<connection t1="New York" t2="Ontario"/>
+<connection t1="New York" t2="Quebec"/>
+<connection t1="New York" t2="S100"/>
+<connection t1="New York" t2="S17"/>
+<connection t1="New Zealand" t2="S78"/>
+<connection t1="New Zealand" t2="S91"/>
+<connection t1="New Zealand" t2="S94"/>
+<connection t1="Niger" t2="Nigeria"/>
+<connection t1="Nigeria" t2="S51"/>
+<connection t1="North Korea" t2="S30"/>
+<connection t1="North Korea" t2="Sea of Japan"/>
+<connection t1="North Korea" t2="South Korea"/>
+<connection t1="North Sea" t2="Norway"/>
+<connection t1="North Sea" t2="Poland"/>
+<connection t1="North Sea" t2="S12"/>
+<connection t1="North Sea" t2="Sweden"/>
+<connection t1="North Sea" t2="W. North Sea"/>
+<connection t1="Northwest Canada" t2="Nunavut"/>
+<connection t1="Northwest Canada" t2="Yukon"/>
+<connection t1="Norway" t2="S12"/>
+<connection t1="Norway" t2="S2"/>
+<connection t1="Norway" t2="Sweden"/>
+<connection t1="Novgorod" t2="Smolensk"/>
+<connection t1="Novgorod" t2="St Petersburg"/>
+<connection t1="Novgorod" t2="Vologda"/>
+<connection t1="Novo-Sibirsk" t2="Omsk"/>
+<connection t1="Nunavut" t2="S7"/>
+<connection t1="Nunavut" t2="S8"/>
+<connection t1="Nunavut" t2="S9"/>
+<connection t1="Okhotsk" t2="S13"/>
+<connection t1="Okhotsk" t2="Yakutsk"/>
+<connection t1="Oman" t2="Saudi Arabia"/>
+<connection t1="Oman" t2="United Arab Emirates"/>
+<connection t1="Oman" t2="Yemen"/>
+<connection t1="Omsk" t2="Sverdlovsk"/>
+<connection t1="Omsk" t2="W. Siberia"/>
+<connection t1="Ontario" t2="Quebec"/>
+<connection t1="Ontario" t2="S7"/>
+<connection t1="Orissa" t2="Tamil Nadu"/>
+<connection t1="Orissa" t2="Uttar Pradesh"/>
+<connection t1="Pakistan" t2="Tibet"/>
+<connection t1="Panama" t2="S38"/>
+<connection t1="Panama" t2="S48"/>
+<connection t1="Papua New Guinea" t2="S56"/>
+<connection t1="Papua New Guinea" t2="S72"/>
+<connection t1="Paraguay" t2="S. Brazil"/>
+<connection t1="Peru" t2="S60"/>
+<connection t1="Peru" t2="S61"/>
+<connection t1="Pevek" t2="S3"/>
+<connection t1="Philippines" t2="S42"/>
+<connection t1="Philippines" t2="S55"/>
+<connection t1="Philippines" t2="South China Sea"/>
+<connection t1="Poland" t2="Ukraine"/>
+<connection t1="Portugal" t2="S24"/>
+<connection t1="Portugal" t2="Spain"/>
+<connection t1="Qingdao" t2="S30"/>
+<connection t1="Qingdao" t2="Shanghai"/>
+<connection t1="Qingdao" t2="Wuhan"/>
+<connection t1="Qinghai" t2="Tibet"/>
+<connection t1="Qinghai" t2="Xi'An"/>
+<connection t1="Qinghai" t2="Xinjiang"/>
+<connection t1="Qinghai" t2="Yinchuan"/>
+<connection t1="Quebec" t2="S100"/>
+<connection t1="Quebec" t2="S7"/>
+<connection t1="Quebec" t2="S8"/>
+<connection t1="Queensland" t2="S72"/>
+<connection t1="Queensland" t2="Victoria"/>
+<connection t1="Red Sea" t2="Saudi Arabia"/>
+<connection t1="Red Sea" t2="Suda"/>
+<connection t1="Red Sea" t2="Yemen"/>
+<connection t1="Rio de Janeiro" t2="S. Brazil"/>
+<connection t1="Rio de Janeiro" t2="S65"/>
+<connection t1="Romania" t2="Ukraine"/>
+<connection t1="S. Brazil" t2="Uruguay"/>
+<connection t1="S. Siberia" t2="Siberia"/>
+<connection t1="S. Siberia" t2="Yakutsk"/>
+<connection t1="S1" t2="S10"/>
+<connection t1="S1" t2="S11"/>
+<connection t1="S1" t2="S2"/>
+<connection t1="S10" t2="S11"/>
+<connection t1="S10" t2="S18"/>
+<connection t1="S10" t2="S19"/>
+<connection t1="S11" t2="S12"/>
+<connection t1="S11" t2="S19"/>
+<connection t1="S11" t2="S20"/>
+<connection t1="S11" t2="UK"/>
+<connection t1="S12" t2="UK"/>
+<connection t1="S12" t2="W. North Sea"/>
+<connection t1="S13" t2="S31"/>
+<connection t1="S13" t2="Sea of Japan"/>
+<connection t1="S14" t2="S15"/>
+<connection t1="S14" t2="S33"/>
+<connection t1="S15" t2="S16"/>
+<connection t1="S15" t2="S33"/>
+<connection t1="S15" t2="S34"/>
+<connection t1="S16" t2="S34"/>
+<connection t1="S16" t2="S35"/>
+<connection t1="S16" t2="Washington"/>
+<connection t1="S17" t2="S100"/>
+<connection t1="S17" t2="S21"/>
+<connection t1="S17" t2="S36"/>
+<connection t1="S17" t2="S37"/>
+<connection t1="S18" t2="S100"/>
+<connection t1="S18" t2="S19"/>
+<connection t1="S18" t2="S21"/>
+<connection t1="S18" t2="S22"/>
+<connection t1="S19" t2="S20"/>
+<connection t1="S19" t2="S22"/>
+<connection t1="S19" t2="S23"/>
+<connection t1="S2" t2="S11"/>
+<connection t1="S2" t2="S12"/>
+<connection t1="S20" t2="S23"/>
+<connection t1="S20" t2="S24"/>
+<connection t1="S20" t2="UK"/>
+<connection t1="S20" t2="W. North Sea"/>
+<connection t1="S21" t2="S100"/>
+<connection t1="S21" t2="S22"/>
+<connection t1="S21" t2="S37"/>
+<connection t1="S21" t2="S39"/>
+<connection t1="S22" t2="S23"/>
+<connection t1="S22" t2="S39"/>
+<connection t1="S22" t2="S40"/>
+<connection t1="S23" t2="S24"/>
+<connection t1="S23" t2="S40"/>
+<connection t1="S23" t2="S41"/>
+<connection t1="S24" t2="S41"/>
+<connection t1="S24" t2="Spain"/>
+<connection t1="S24" t2="W. North Sea"/>
+<connection t1="S25" t2="S26"/>
+<connection t1="S25" t2="S27"/>
+<connection t1="S25" t2="Spain"/>
+<connection t1="S25" t2="Tunisia"/>
+<connection t1="S27" t2="S28"/>
+<connection t1="S27" t2="S29"/>
+<connection t1="S28" t2="Black Sea"/>
+<connection t1="S28" t2="S29"/>
+<connection t1="S28" t2="W. Turkey"/>
+<connection t1="S29" t2="Red Sea"/>
+<connection t1="S29" t2="Syria"/>
+<connection t1="S29" t2="W. Turkey"/>
+<connection t1="S3" t2="S13"/>
+<connection t1="S3" t2="S31"/>
+<connection t1="S3" t2="S4"/>
+<connection t1="S30" t2="Yellow Sea"/>
+<connection t1="S31" t2="S32"/>
+<connection t1="S31" t2="S42"/>
+<connection t1="S31" t2="South China Sea"/>
+<connection t1="S31" t2="Tokio"/>
+<connection t1="S31" t2="Yellow Sea"/>
+<connection t1="S32" t2="S43"/>
+<connection t1="S33" t2="S34"/>
+<connection t1="S33" t2="S44"/>
+<connection t1="S33" t2="S45"/>
+<connection t1="S34" t2="S35"/>
+<connection t1="S34" t2="S45"/>
+<connection t1="S34" t2="S46"/>
+<connection t1="S35" t2="S46"/>
+<connection t1="S35" t2="S47"/>
+<connection t1="S35" t2="S48"/>
+<connection t1="S35" t2="W. Mexico"/>
+<connection t1="S36" t2="S37"/>
+<connection t1="S36" t2="S38"/>
+<connection t1="S37" t2="S38"/>
+<connection t1="S37" t2="S39"/>
+<connection t1="S37" t2="S49"/>
+<connection t1="S38" t2="S49"/>
+<connection t1="S39" t2="S40"/>
+<connection t1="S39" t2="S49"/>
+<connection t1="S39" t2="S50"/>
+<connection t1="S4" t2="S32"/>
+<connection t1="S40" t2="S41"/>
+<connection t1="S40" t2="S50"/>
+<connection t1="S41" t2="S51"/>
+<connection t1="S41" t2="Senegal"/>
+<connection t1="S42" t2="S43"/>
+<connection t1="S42" t2="S55"/>
+<connection t1="S42" t2="S56"/>
+<connection t1="S42" t2="South China Sea"/>
+<connection t1="S43" t2="S56"/>
+<connection t1="S43" t2="S93"/>
+<connection t1="S44" t2="S45"/>
+<connection t1="S44" t2="S57"/>
+<connection t1="S45" t2="S46"/>
+<connection t1="S45" t2="S57"/>
+<connection t1="S45" t2="S58"/>
+<connection t1="S46" t2="S47"/>
+<connection t1="S46" t2="S58"/>
+<connection t1="S46" t2="S59"/>
+<connection t1="S47" t2="S48"/>
+<connection t1="S47" t2="S59"/>
+<connection t1="S48" t2="S38"/>
+<connection t1="S48" t2="S60"/>
+<connection t1="S49" t2="S50"/>
+<connection t1="S49" t2="S62"/>
+<connection t1="S49" t2="Venezuela"/>
+<connection t1="S5" t2="S14"/>
+<connection t1="S5" t2="S15"/>
+<connection t1="S5" t2="S6"/>
+<connection t1="S50" t2="S51"/>
+<connection t1="S50" t2="S62"/>
+<connection t1="S50" t2="S63"/>
+<connection t1="S51" t2="S63"/>
+<connection t1="S51" t2="S64"/>
+<connection t1="S52" t2="S54"/>
+<connection t1="S52" t2="S70"/>
+<connection t1="S52" t2="Sri Lanka"/>
+<connection t1="S54" t2="S70"/>
+<connection t1="S54" t2="S71"/>
+<connection t1="S54" t2="South China Sea"/>
+<connection t1="S54" t2="Thailand"/>
+<connection t1="S54" t2="Vietnam"/>
+<connection t1="S55" t2="S54"/>
+<connection t1="S55" t2="S56"/>
+<connection t1="S55" t2="S71"/>
+<connection t1="S55" t2="S72"/>
+<connection t1="S55" t2="South China Sea"/>
+<connection t1="S56" t2="S72"/>
+<connection t1="S56" t2="S93"/>
+<connection t1="S57" t2="S58"/>
+<connection t1="S57" t2="S80"/>
+<connection t1="S58" t2="S59"/>
+<connection t1="S58" t2="S81"/>
+<connection t1="S59" t2="S60"/>
+<connection t1="S59" t2="S82"/>
+<connection t1="S6" t2="S15"/>
+<connection t1="S6" t2="S16"/>
+<connection t1="S60" t2="S61"/>
+<connection t1="S60" t2="S83"/>
+<connection t1="S61" t2="S83"/>
+<connection t1="S61" t2="S84"/>
+<connection t1="S62" t2="S63"/>
+<connection t1="S62" t2="S65"/>
+<connection t1="S62" t2="S66"/>
+<connection t1="S63" t2="S64"/>
+<connection t1="S63" t2="S66"/>
+<connection t1="S63" t2="S67"/>
+<connection t1="S64" t2="S67"/>
+<connection t1="S65" t2="S. Brazil"/>
+<connection t1="S65" t2="S66"/>
+<connection t1="S65" t2="S85"/>
+<connection t1="S65" t2="S86"/>
+<connection t1="S66" t2="S67"/>
+<connection t1="S66" t2="S86"/>
+<connection t1="S66" t2="S87"/>
+<connection t1="S67" t2="S74"/>
+<connection t1="S67" t2="S87"/>
+<connection t1="S67" t2="S88"/>
+<connection t1="S67" t2="South Africa"/>
+<connection t1="S68" t2="S69"/>
+<connection t1="S68" t2="S74"/>
+<connection t1="S68" t2="S75"/>
+<connection t1="S68" t2="Tanzania"/>
+<connection t1="S69" t2="S70"/>
+<connection t1="S69" t2="S75"/>
+<connection t1="S69" t2="S76"/>
+<connection t1="S7" t2="S8"/>
+<connection t1="S70" t2="S71"/>
+<connection t1="S70" t2="S76"/>
+<connection t1="S70" t2="S77"/>
+<connection t1="S71" t2="S72"/>
+<connection t1="S71" t2="S77"/>
+<connection t1="S71" t2="W. Australia"/>
+<connection t1="S72" t2="S73"/>
+<connection t1="S72" t2="S78"/>
+<connection t1="S73" t2="S93"/>
+<connection t1="S73" t2="S94"/>
+<connection t1="S74" t2="S75"/>
+<connection t1="S74" t2="S88"/>
+<connection t1="S74" t2="S89"/>
+<connection t1="S74" t2="South Africa"/>
+<connection t1="S75" t2="S76"/>
+<connection t1="S75" t2="S89"/>
+<connection t1="S75" t2="S90"/>
+<connection t1="S76" t2="S77"/>
+<connection t1="S76" t2="S90"/>
+<connection t1="S77" t2="S78"/>
+<connection t1="S77" t2="S90"/>
+<connection t1="S77" t2="S91"/>
+<connection t1="S77" t2="W. Australia"/>
+<connection t1="S78" t2="S91"/>
+<connection t1="S78" t2="S94"/>
+<connection t1="S78" t2="Victoria"/>
+<connection t1="S8" t2="S100"/>
+<connection t1="S8" t2="S18"/>
+<connection t1="S8" t2="S9"/>
+<connection t1="S80" t2="S81"/>
+<connection t1="S81" t2="S82"/>
+<connection t1="S82" t2="S83"/>
+<connection t1="S83" t2="S84"/>
+<connection t1="S85" t2="S86"/>
+<connection t1="S85" t2="Uruguay"/>
+<connection t1="S86" t2="S87"/>
+<connection t1="S87" t2="S88"/>
+<connection t1="S88" t2="S89"/>
+<connection t1="S89" t2="S90"/>
+<connection t1="S9" t2="S10"/>
+<connection t1="S9" t2="S18"/>
+<connection t1="S90" t2="S91"/>
+<connection t1="S91" t2="S92"/>
+<connection t1="S91" t2="S94"/>
+<connection t1="S92" t2="S94"/>
+<connection t1="Saudi Arabia" t2="United Arab Emirates"/>
+<connection t1="Saudi Arabia" t2="Yemen"/>
+<connection t1="Sea of Japan" t2="South Korea"/>
+<connection t1="Sea of Japan" t2="Vladivostok"/>
+<connection t1="Sea of Japan" t2="Yellow Sea"/>
+<connection t1="Shanghai" t2="South China Sea"/>
+<connection t1="Shanghai" t2="Yellow Sea"/>
+<connection t1="Siberia" t2="W. Siberia"/>
+<connection t1="Siberia" t2="Yakutsk"/>
+<connection t1="Smolensk" t2="Ukraine"/>
+<connection t1="Smolensk" t2="Ulyanovsk"/>
+<connection t1="South Africa" t2="Zimbabwe"/>
+<connection t1="South China Sea" t2="Taiwan"/>
+<connection t1="South China Sea" t2="Vietnam"/>
+<connection t1="South China Sea" t2="Yellow Sea"/>
+<connection t1="South Korea" t2="Yellow Sea"/>
+<connection t1="South Sudan" t2="Suda"/>
+<connection t1="South Sudan" t2="Uganda"/>
+<connection t1="St Petersburg" t2="Vologda"/>
+<connection t1="Sverdlovsk" t2="Ulyanovsk"/>
+<connection t1="Sverdlovsk" t2="W. Siberia"/>
+<connection t1="Syria" t2="W. Turkey"/>
+<connection t1="Taiwan" t2="Yellow Sea"/>
+<connection t1="Tajikistan" t2="Tibet"/>
+<connection t1="Tajikistan" t2="Uzbekistan"/>
+<connection t1="Tanzania" t2="Uganda"/>
+<connection t1="Tanzania" t2="Zambia"/>
+<connection t1="Tennesse" t2="Ontario"/>
+<connection t1="Texas" t2="W. Mexico"/>
+<connection t1="Tibet" t2="Xinjiang"/>
+<connection t1="Turkmenistan" t2="Uzbekistan"/>
+<connection t1="UK" t2="W. North Sea"/>
+<connection t1="Ukraine" t2="Ulyanovsk"/>
+<connection t1="Ulyanovsk" t2="Volgograd"/>
+<connection t1="Ulyanovsk" t2="Vologda"/>
+<connection t1="Wuhan" t2="Xi'An"/>
+<connection t1="Xi'An" t2="Yinchuan"/>
+<connection t1="Xinjiang" t2="Yinchuan"/>
+<connection t1="Zambia" t2="Zimbabwe"/>

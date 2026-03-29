@@ -1,0 +1,3 @@
+map_name: worldwar3-main
+games:
+- {game_name: World War 3 - 2025, file_name: worldwar3.xml}
